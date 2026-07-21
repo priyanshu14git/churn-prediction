@@ -27,4 +27,4 @@ EXPOSE 8000 8501
 COPY docker-entrypoint.sh /app/docker-entrypoint.sh
 RUN chmod +x /app/docker-entrypoint.sh
 
-CMD ["/app/docker-entrypoint.sh"]
+CMD ["bash", "/app/docker-entrypoint.sh"]
