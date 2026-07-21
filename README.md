@@ -4,7 +4,7 @@ An end-to-end machine learning system that predicts whether a telecom customer w
 explains *why* using SHAP, and serves live predictions through a FastAPI backend + Streamlit
 frontend — fully containerized with Docker.
 
-**Live Demo:** _[add your deployed link here once live]_
+**Live Demo:** https://churn-prediction-app-foq9.onrender.com
 
 ![Demo](demo.gif)
 _[add your demo GIF here — see instructions at the bottom]_
