@@ -7,7 +7,7 @@ frontend — fully containerized with Docker.
 **Live Demo:** https://churn-prediction-app-foq9.onrender.com
 
 ![Demo](demo.gif)
-_[add your demo GIF here — see instructions at the bottom]_
+
 
 ---
 
